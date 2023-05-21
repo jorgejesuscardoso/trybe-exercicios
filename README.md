@@ -26,4 +26,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 2-2: _Entendendo os comandos_
 
-- [ ] 2-3: _Internet - Entendendo como ela funciona
+- [ ] 2-3: _Internet - Entendendo como ela funciona_
