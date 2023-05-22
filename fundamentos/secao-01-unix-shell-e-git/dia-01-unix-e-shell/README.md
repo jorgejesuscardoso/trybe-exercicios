@@ -8,7 +8,7 @@ e a tratar-los através do terminal utilizado inputs e outputs.
 1. **cd**: Digitando no terminal _cd "nome do diretório"_, você acessa o diretório cujo nome foi colocado entre aspas. 
 Obs: É necessário que o diretório esteja no mesmo diretório para poder ter acesso, caso contrário é necessário escrever o caminho inteiro até o diretório que deseja abrir, exemplo, _cd test-cd/test-cd2/diretório-destino_, no caso do exemplo o diretório que vai ser acessado é ser aberto é o diretório chamado, 'diretório-destino', _cd .._ você volta para o diretório anterior, apenas _cd_ você volta para o diretório raiz.
 
-2. **ls**: Digitando no terminal, ele irá lista todos os diretórios e arquivos dentro do diretório onde você está, digitando _ls -a_ era exibir também diretórios ocultos, digitando _ls *_ irá listar todos os diretórios e seus conteúdos.
+2. **ls**: Digitando no terminal, ele irá lista todos os diretórios e arquivos dentro do diretório onde você está, digitando _ls -a_ era exibir também diretórios ocultos, digitando _ls_ com o curinga "*", _ls *_ irá listar todos os diretórios e seus conteúdos. O outro curinga éo _?_ que pode ser usando caso nao se lembra o inicio do nome do arquivo, exemplo _ls ?rybe.txt_, abre o arquivo _trybe.txt_.
 
 3. **cat**. Utilizando apenas _cat nome-de-arquivo.txt_ irá exibir o conteúdo do arquivo de texto, se digitar _cat > nome-de-arquivo.txt_ vai permitir inserir texto dentro do arquivo _nome-de-arquivo.txt_ mas vai apagar tudo que já estava lá antes. Caso não exista esse arquivo, o arquivo _nome-de-arquivo.txt_ será criado. Se utilizar _cat >> nome-de-arquivo.txt_ será permitido inserir texto a partir da linha final do arquivo sem apagar nada que já estava lá.
 
@@ -45,5 +45,11 @@ Obs: É necessário que o diretório esteja no mesmo diretório para poder ter a
 19. **find**. Procura por arquivos em um diretório.
 
 20. **history**. Exibi o histórico de comando utilizado no terminal.
+
+21. **wahtis**. Mostra o que o comando faz. Exemplo _whatis cp_, mostra que o _cp_ faz copia de arquivo.
+
+22. **man**. Traz o manual do comando indicado. Exemplo _man cp_ trás o manual completo do comando _cp_
+ 
+23. **apropos**. Mostra qual comando faz oquê. Exemplo, eu quero fazer uma copia então uso _apropos copy_ ele irá mostra todos os comandos que faz copias, um deles é o _cp_.
 
 
