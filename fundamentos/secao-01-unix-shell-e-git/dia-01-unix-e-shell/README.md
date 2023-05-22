@@ -38,7 +38,7 @@ Obs: É necessário que o diretório esteja no mesmo diretório para poder ter a
 
 16. **mkdir**. Cria um diretório vazio. Exemplo _mkdir testando_ o diretório _testando_ será criado.
 
-17. **grep**. Imprime no terminal as linhas correspondente a pesquisa. Exemplo _grep Vingadores lista-de-filmes.txt_ ira imprimir no terminal todas as palavras que corresponde a Vingadores que está dentro do arquivo, neste caso, os nomes dos filmes dos vingadores que estão na lista será exibido.
+17. **grep**. Imprime no terminal as linhas correspondente a pesquisa. Exemplo _grep Vingadores lista-de-filmes.txt_ ira imprimir no terminal todas as palavras que corresponde a Vingadores que está dentro do arquivo, neste caso, os nomes dos filmes dos vingadores que estão na lista será exibido. Utilizando _grep -i poderoso arquivo.txt_ ele irá buscar todas as linhas que contenha a palavra _poderoso_ ingnorando o _key sensitive_. Se usar com _-iv_ irá exibir todos os valores que não contenha a palavra _poderoso_. Se usar com _-in_ mostrará o número da linha em que está está e com _-ic_ mostra a quantidade de vezes que ela aparece.
 
 18. **sort**. Põe em ordem alfabética. Exemplo _sort lista-de-filmes.txt_, todo o conteúdo do arquivo seŕa imprimido em ordem alfabética.
 
