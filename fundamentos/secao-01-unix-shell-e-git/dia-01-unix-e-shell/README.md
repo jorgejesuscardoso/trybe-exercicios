@@ -34,7 +34,7 @@ Obs: É necessário que o diretório esteja no mesmo diretório para poder ter a
 
 14. **less**. Se usado em um arquivo com muitas linhas ou página, exibe todo seu conteúdo em forma de páginas. Para mudar de página deve-se apertar barra de espaço e para sair aperta letra 'Q'.
 
-15. **| (pipe)**. Permite o uso de vários comando ao mesmo tempo. Exemplo _head -5 lista-de-filmes.txt | sort_ irá imprimir no terminal as 5 primeiras linhas do arquivo _lista-de-filmes.txt_ em ordem alfabética.
+15. **| (pipe)**. Permite o uso de vários comando ao mesmo tempo, enviando o _output_ de um comando para o outro comando. Exemplo _head -5 lista-de-filmes.txt | sort_ irá imprimir no terminal as 5 primeiras linhas do arquivo _lista-de-filmes.txt_ em ordem alfabética.
 
 16. **mkdir**. Cria um diretório vazio. Exemplo _mkdir testando_ o diretório _testando_ será criado.
 
@@ -52,4 +52,4 @@ Obs: É necessário que o diretório esteja no mesmo diretório para poder ter a
  
 23. **apropos**. Mostra qual comando faz oquê. Exemplo, eu quero fazer uma copia então uso _apropos copy_ ele irá mostra todos os comandos que faz copias, um deles é o _cp_.
 
-
+24. **who**. Mostra todos que tem acesso ao sistema e acesso as informações do terminal.

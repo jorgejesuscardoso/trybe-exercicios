@@ -1,6 +1,6 @@
 amarelo
-vermelho
 azul
+laranja
 marrom
 preto
-laranja
+vermelho
