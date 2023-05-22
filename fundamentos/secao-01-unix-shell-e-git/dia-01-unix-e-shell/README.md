@@ -1,6 +1,6 @@
 ## Relatório do dia.
 
-Nesse dia, aprendi o que é e pra quẽ serve o Unix, Kernel e Shell. Também aprendi a manipular arquivos
+Nesse dia, aprendi o que é e pra quê serve o Unix, Kernel e Shell. Também aprendi a manipular arquivos
 e a tratar-los através do terminal utilizado inputs e outputs.
 
 ### Comandos que foram aprendidos nesse dia:
