@@ -1,5 +1,5 @@
 # trybe-exercicios
-Portfólio
+
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jorge de Jesus Cardoso [linkedin](https://www.linkedin.com/in/jorgejesuscardoso) enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
 
