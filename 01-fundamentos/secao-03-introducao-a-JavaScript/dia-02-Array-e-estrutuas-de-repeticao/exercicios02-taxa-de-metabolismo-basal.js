@@ -10,7 +10,7 @@
 //exibir o resultado
 
 const age1 = 32;
-const sex = 'M5';
+const sex = 'M';
 const weight = 194;
 const height = 187;
 
