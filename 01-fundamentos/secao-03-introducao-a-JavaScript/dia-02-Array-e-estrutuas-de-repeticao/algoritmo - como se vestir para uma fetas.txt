@@ -1,0 +1,17 @@
+1 - Ver o tipo de festa.
+2 - ver o horario da festa
+3 - decidir pela roupa que melhor combina com o tipo e horario da festa
+4 - reservar um horario com tempo suficiente para se arrumar para festa
+5 - iniciar o processo de se arrumar par a festa
+6 - inicie indo ao banheiro para tomar banho
+7 - após o processo do banho, se enxugue com uma toalha limpa
+8 - vista a roupa intima desejada
+9 - vista aa calça ou short
+10 - calce as meias
+11 - calce os sapatos
+13 - passe o perfume
+14 - vista a camisa
+15 - arrume o cabelo
+16 - pegue o convite da festa
+17 - verifique o endereço da festa
+18 - vá para festa
