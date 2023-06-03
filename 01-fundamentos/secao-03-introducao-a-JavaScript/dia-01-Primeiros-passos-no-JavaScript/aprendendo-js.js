@@ -1,3 +1,12 @@
-var nomePessoa= 'Jorge';
+//const nomePessoa= 'Jorge';
+
+    
+
+
+if (true){
+
+    var xablau = 'Vaza o scopo';
+
+}
  
-console.log(nomePessoa);
+console.log(xablau);
