@@ -1,5 +1,7 @@
-const round = 1; // entree 1-16
-const killweapon = 'knife'; // 'AWP', 'Molotov', 'Desert Eagle', 'MP7'
+// CS - Calculo de Dinheiro
+
+const round = 1; // entre 1-16
+const killweapon = 'knife'; // 'AWP', 'Molotov', 'Desert Eagle', 'MP7', 'Knife'
 const howin = 'Bomb Explode'; // 'Eliminate', 'Time Out', 'Bomb Has Been Planted', 'Bomb has been Defused'
 const win = true;
 const bombDetonate = false;
