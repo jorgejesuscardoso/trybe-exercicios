@@ -5,10 +5,25 @@ const mcDonalds = {
     city: 'Curitiba',
     unit: ['Shopping de Curitiba','Shopping Estação'],
     isDelcicius: true,
+    outroObjeto:{
+        chave: 'valor',
+    }
 };
 
+//console.log(mcDonalds);
 //console.log(mcDonalds.bigTasty);
 
 //console.log(mcDonalds['bigMac']);
-const chave = 'bigMac';
-console.log(mcDonalds[chave]);
+//const chave = 'bigMac';
+//console.log(mcDonalds[chave]);
+
+mcDonalds.xablau = 'André olhos de aguia';
+
+//console.log(mcDonalds);
+
+// Métodos para objetos:
+
+//console.log(Object.keys(mcDonalds));
+//console.log(Object.values(mcDonalds));
+//console.log(Object.entries(mcDonalds));
+console.log(Object.keys(mcDonalds.outroObjeto));
