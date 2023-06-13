@@ -1,0 +1,13 @@
+.lenda, .piloto-f1-atual{
+    margin: auto;
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.lenda:hover, .piloto-f1-atual:hover{
+    border: 3px solid green;
+    
+}
