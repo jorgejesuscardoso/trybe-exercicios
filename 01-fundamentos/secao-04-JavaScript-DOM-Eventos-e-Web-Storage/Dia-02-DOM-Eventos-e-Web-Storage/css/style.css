@@ -1,0 +1,46 @@
+#first {
+    width: 450px;
+    margin: auto;
+    padding: 10px;
+    height: auto;
+    border: 2px solid black;
+    display: flex;
+}  
+h1, h2 {
+    text-align: center;
+}
+
+.small {
+    width: 100px;
+    margin: auto;
+    padding: auto;
+    height: 100px;
+}
+.medium {
+    width: 150px;
+    margin: auto;
+    padding: auto;
+    height: 150px;
+}
+.big {
+    width: 200px;
+    margin: auto;
+    padding: auto;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.circle {
+    border-radius: 50%;
+}
+.square {
+    border-radius: 1px
+}
