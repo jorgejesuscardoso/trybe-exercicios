@@ -11,12 +11,32 @@ window.onload = () => {
     const audioWinner = document.getElementById('audioWinner'); // captura o elemento de audio
 
 player1.style.marginLeft = 0;
-player1.style.marginLeft = 0;
+player2.style.marginLeft = 0;
 
-startBtn.addEventListener('click' , () => {
-    
-});
+startBtn.addEventListener('click' , (evento) => {
+    evento.target.innerText = 'Go Go Go!!!';
+    });
 
+    const cars = document.querySelectorAll('.car');
+    for (let car of cars){
+        car.addEventListener('click', (event) => {
+            const selected = document.querySelector('.selected')
+            if (selected){
+                selected.classList.remove('selected');
+            }
+            event.target.classList.add('selected');
+        });
+    };
 
+    const personagens = document.querySelectorAll('.playersImages');
+    for (let personagem of personagens) {
+        personagem.addEventListener('click', (event) => {
+            const selected = document.querySelector('.selected');
+            if (selected){
+                selected.style.backgroundImage = (`url(${event.target.src})`);
+                selected.classList.remove('selected');
+            };
+        });
+    };
 
 };
