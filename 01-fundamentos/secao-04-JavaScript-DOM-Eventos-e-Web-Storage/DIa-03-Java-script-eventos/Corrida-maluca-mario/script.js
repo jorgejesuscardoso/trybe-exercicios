@@ -52,6 +52,7 @@ window.onload = () => {
                     selected.style.backgroundImage = (`url(${event.target.src})`);
                     
                 };
+                
             });
         };
 };
