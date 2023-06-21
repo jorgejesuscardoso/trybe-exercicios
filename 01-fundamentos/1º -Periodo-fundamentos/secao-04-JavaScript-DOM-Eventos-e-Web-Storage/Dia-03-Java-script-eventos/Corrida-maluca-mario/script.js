@@ -14,8 +14,25 @@ player1.style.marginLeft = 0;
 player2.style.marginLeft = 0;
 
 startBtn.addEventListener('click' , (evento) => {
-    evento.target.innerText = 'Go Go Go!!!';
+    player1.style.marginLeft = (parseInt(player1.style.marginLeft) + numeroAleatorio()) + 'px';
+    player2.style.marginLeft = (parseInt(player1.style.marginLeft) + numeroAleatorio()) + 'px';
+
+    const player1Win = parseInt(player1.style.marginLeft) > window.innerWidth;
+    const player2Win = parseInt(player2.style.marginLeft) > window.innerWidth;
+
+
+    if (player1Win) {
+        alert('PLAYER 1 VENCEU !!!!')
+        audioWinner.play();
+        reset()
+    } else if (player2Win) {
+        alert('PLAYER 2 VENCEU !!!!!')
+        audioWinner.play();
+        reset()
+    };
+
     });
+    
 
     const cars = document.querySelectorAll('.car');
     for (let car of cars){
@@ -39,4 +56,18 @@ startBtn.addEventListener('click' , (evento) => {
         });
     };
 
+};
+
+function reset () {
+
+    const player1 = document.getElementById('player1');         // captura o elemento player1
+    const player2 = document.getElementById('player2');         // captura o elemento player2
+    player1.style.marginLeft = 0;
+    player2.style.marginLeft = 0;
+    player1.style.backgroundImage = 'url(./files/selectPlayer.png)';
+    player2.style.backgroundImage = 'url(./files/selectPlayer.png)';
+};
+
+function numeroAleatorio () {
+    return (Math.random() * 200);
 };
