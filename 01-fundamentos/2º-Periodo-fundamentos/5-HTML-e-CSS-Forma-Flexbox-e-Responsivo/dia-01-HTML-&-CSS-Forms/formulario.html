@@ -5,14 +5,52 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
+    <style>
+        label, input name.hub {
+            display: block;
+        }
+    </style>
 </head>
 <body>
 
     <h1>FORMULÁRIO</h1>
     <form action="" method="get">
-        <input type="text" name="texto">
-        <button type="submit">ENVIAR</button>
-
+        
+        <label for="input-text" style="display: block;">Digite seu nome:</label>
+        <input type="text" name="texto" placeholder="Digite seu nome." required class="" id="input-text" style="display: block;">
+        <label for="" style="display: block;">Digite sua Senha:</label>
+        <input type="password" style="display: block;" placeholder="Senha"> 
+        <button type="submit" class="" >ENVIAR</button>
+        
+        <br>
+        <textarea name="" id="" cols="30" rows="10">Testo previamente inserido!</textarea><br>
+        <input type="checkbox" value="vol" name="esporte" id="sport1" checked> Volei
+        <input type="checkbox" value="fut" name="esporte" id="sport2" checked>Futebol
+        <input type="checkbox" value="bas" name="esporte" id="sport3" checked>Basquete
+    <label for="cd1">
+        <input type="radio" name="hub" id="cd1"> São Paulo
+    </label>
+    <label for="cd2">
+        <input type="radio" name="hub" id="cd2"> Florianopolis
+    </label>
+    <label for="cd3">
+         <input type="radio" name="hub" id="cd3"> Salvador
+    </label>
+    <label for="cd4">
+        <input type="radio" name="hub" id="cd4"> Macedônia
+    </label>
+    <label for="cd5">
+        <input type="radio" name="hub" id="cd5"> Belo Horizonte
+        </label>
+    </form>
+    <form action="">
+        <select name="estado" id="dropdown-estado">
+            <option value="Ba">BAHIA</option>
+            <option value="sp">São Paulo</option>
+            <option value="BH">Belo Horizonte</option>
+            <option value="Am">Amazonas</option>
+            <option value="CE">Ceará</option>
+           </select>
     </form>    
 </body>
 </html>
