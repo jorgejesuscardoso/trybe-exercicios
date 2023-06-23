@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 5.1</title>
+    <link rel="stylesheet" href="css/style1.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="js/script.js" defer></script>
+</head>
+<body>
+   <header class="container text-center mt-5"><h1 class="display-4">Campus Tryber Brasil</h1>
+    <p class="lead">Quer palestrar na nossa conferência? Preencha o formulário!</p>
+    </header>
+
+    <div class="container">
+    <form action="" method="get" class="formulario"> 
+    <div class="form-floating mb-3">
+
+        <input type="text" name="nome-completo" id="nome-completo" placeholder="Nome" class="form-control">
+        <label for="nome-completo">Nome Completo:</label>        
+    </div>   
+
+    <div class="form-floating mb-3">
+        
+        <input type="email" name="email" id="email" placeholder="E-mail" class="form-control">
+        <label for="email">E-mail</label>
+    </div> 
+
+    <div class="form-check mb-3">
+        <p>Tipo de Palestra:</p>
+        
+        <div class="form-check mb-3">
+        <input class="form-check-input" type="radio" name="palco-palestra" id="opcao1" value="mundo">
+        <label for="opcao1" >Palco Mundo</label>
+        </div>
+        <div class="form-check mb-3">
+        <input class="form-check-input" type="radio" name="palco-palestra" id="opcao2" value="sunset">
+        <label for="opcao2">Palco Sunset</label>
+        </div>
+        <div class="form-check mb-3">
+        <input class="form-check-input" type="radio"name="palco-palestra" id="opcao3" value="supernova">
+        <label for="opcao3">Palco Supernova</label>
+        </div>
+
+        <div class="mb-3">
+            <label for="tamanho-camiseta">Tamanho Camiseta:</label>
+            <select class="form-select" aria-label="select example" id="tamanho-camiseta">
+                <option value="xs">PP</option>
+                <option value="s">P</option>
+                <option value="m">M</option>
+                <option value="l">G</option>
+                <option value="xl">GG</option>
+            </select>
+        </div>
+        
+        <div class="form-floating mb-3">
+            
+            <textarea class="form-control" name="resumo" id="resumo" cols="30" rows="10" ></textarea>
+            <label for="resumo">Resumo:</label>
+        </div>  
+
+        <div class="mb-3">
+            <input type="checkbox" name="deacordo" id="deacordo" required>
+            <label for="deacordo">Declaro que estou de acordo com as regras do evento.</label>
+        </div>
+
+    </div>
+<div>
+    <button type="submit" class="btn btn-success mx-5">Enviar</button>
+    <button type="reset" class="btn btn-danger">Limpar</button>
+</div>
+    </form>
+  </div>
+</body>
+</html>
