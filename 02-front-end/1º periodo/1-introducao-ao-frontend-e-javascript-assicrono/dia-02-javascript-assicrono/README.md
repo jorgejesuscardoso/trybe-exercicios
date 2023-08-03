@@ -10,7 +10,7 @@ A função setTimeOut() recebe 2 paramentros:
  - Primeira recebe uma função(callback) que será executada e ela sera executada de acordo o tempo que será passada como segundo paramentro.
  - Segundo é um tempo que deve ser definido em milisegundos: 1000 milisegundos = 1 seg.
 
-!!! _A função callback será executada de maneira assíncrono, quando a execuçao passar por ela, ela nao será executada de imediato, mas sim, depois do tempo que foi passado como segundo paramentro acabar._
+> A função callback será executada de maneira assíncrono, quando a execuçao passar por ela, ela nao será executada de imediato, mas sim, depois do tempo que foi passado como segundo paramentro acabar.
 
  ## Parte 2
 
@@ -22,7 +22,7 @@ A função setTimeOut() recebe 2 paramentros:
     - _fulfilled_ (realizada), execução finalizada e promise _resolvida_.
     - _rejected_ (rejeitada), quando a operação deu erro.
 
-##### **Função _new Promise((revols, reject) => {})_;**
+##### **Função `new Promise((revols, reject) => {})`;**
  - Os paramentros _resolve_ e _reject_ serão usadis para definir o estado da promise ao finalizar
     - _resolve_ para resolvida (_then_).
     - _reject_ para rejeitada (_catch_).
