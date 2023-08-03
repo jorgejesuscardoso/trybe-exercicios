@@ -10,7 +10,7 @@ A função setTimeOut() recebe 2 paramentros:
  - Primeira recebe uma função(callback) que será executada e ela sera executada de acordo o tempo que será passada como segundo paramentro.
  - Segundo é um tempo que deve ser definido em milisegundos: 1000 milisegundos = 1 seg.
 
-!!!! A função callback será executada de maneira assíncrono, quando a execuçao passar por ela, ela nao será executada de imediato, mas sim, depois do tempo que foi passado como segundo paramentro acabar.
+!!!!A função callback será executada de maneira assíncrono, quando a execuçao passar por ela, ela nao será executada de imediato, mas sim, depois do tempo que foi passado como segundo paramentro acabar.
 
  ## Parte 2
 
