@@ -22,7 +22,7 @@ A função `setTimeOut()` recebe 2 paramentros:
     - _fulfilled_ (realizada), execução finalizada e promise _resolvida_.
     - _rejected_ (rejeitada), quando a operação deu erro.
 
-#### **Função _`new Promise((revols, reject) => {})`_;**
+#### **Função _`new Promise((resolve, reject) => {})`_;**
  - Os paramentros _resolve_ e _reject_ serão usadis para definir o estado da promise ao finalizar
     - _resolve_ para resolvida (_then_).
     - _reject_ para rejeitada (_catch_).
