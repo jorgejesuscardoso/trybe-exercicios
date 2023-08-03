@@ -62,6 +62,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Front-End - _cursando_
 
-##### Bloco 1: [Introdução ao Front-end e JavaScript assicrono](https://github.com/jorgejesuscardoso/trybe-exercicios/tree/main/02-front-end/1%C2%BA%20periodo)
+##### Bloco 1: [Introdução ao Front-end e JavaScript assíncrono](https://github.com/jorgejesuscardoso/trybe-exercicios/tree/main/02-front-end/1%C2%BA%20periodo)
 - [x] 1-1: _Ambiente de desenvolvimento_
 - [x] 1-2: _JavaScript Assíncrono - Promises e fetch_ 
