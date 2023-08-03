@@ -30,3 +30,7 @@ A função setTimeOut() recebe 2 paramentros:
 ##### Recebendo retorno _then_ e _catch_: 
 
  - O _then_ recebe um função e essa função recebe o paramentro que é a resposta do codigo asíncrono
+
+## Parte 3
+
+### Método fetch()
