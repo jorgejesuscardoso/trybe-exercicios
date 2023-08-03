@@ -1,10 +1,10 @@
 ## Parte 1
 
-#### Codigo Assíncrono
+#### **Codigo Assíncrono**
 
 - Códigos assíncrono funciona fora do fluxo principal sem travar a aplicação. Depois que terminar de executar o retorno dele volta para o fluxo principal. 
 
-##### Função setTimeOut()
+##### **Função setTimeOut()**
 
 A função setTimeOut() recebe 2 paramentros:
  - Primeira recebe uma função(callback) que será executada e ela sera executada de acordo o tempo que será passada como segundo paramentro.
@@ -14,7 +14,7 @@ A função setTimeOut() recebe 2 paramentros:
 
  ## Parte 2
 
- #### Promises
+ #### **Promises**
 
  - As promises são usadas para lidar com códigos assíncronos, aqueles códigos que serão executados fora do fluxo sequencial da aplicação. Esses códigos costumam demorar para finalizarem seu sua execução, entre milisegundos e até memso minutos.
  - As promises possuem trẽs estados:
@@ -22,15 +22,15 @@ A função setTimeOut() recebe 2 paramentros:
     - _fulfilled_ (realizada), execução finalizada e promise _resolvida_.
     - _rejected_ (rejeitada), quando a operação deu erro.
 
-##### Função _new Promise((revols, reject) => {});
+##### **Função _new Promise((revols, reject) => {})_;**
  - Os paramentros _resolve_ e _reject_ serão usadis para definir o estado da promise ao finalizar
     - _resolve_ para resolvida (_then_).
     - _reject_ para rejeitada (_catch_).
 
-##### Recebendo retorno _then_ e _catch_: 
+##### **Recebendo retorno _then_ e _catch_: **
 
  - O _then_ recebe um função e essa função recebe o paramentro que é a resposta do codigo asíncrono
 
 ## Parte 3
 
-### Método fetch()
+#### **Método fetch()**
