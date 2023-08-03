@@ -36,4 +36,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
  - [x] 3-2: _Primeiros passos em css_
  - [x] 3-3: _Seletores e posicionamentos_
  - [x] 3-4: _HTML Semântico_
- - [ ] 3-5: _Lessons Learned_
+ - [x] 3-5: _Lessons Learned_
+
+##### Bloco 4: [Introdução á JavaScript](https://github.com/jorgejesuscardoso/trybe-exercicios/tree/main/01-fundamentos/1%C2%BA%20-Periodo-fundamentos/secao-03-introducao-a-JavaScript)
+- [x] 4-1: _Primeiros passos no JavaScript_
+- [x] 4-2: _Array e estruturas de repetição_
+- [x] 4-4: _Objetos_
+
+##### Bloco 5: [JavaScript, DOM, Eventos e Web Storage](https://github.com/jorgejesuscardoso/trybe-exercicios/tree/main/01-fundamentos/1%C2%BA%20-Periodo-fundamentos/secao-04-JavaScript-DOM-Eventos-e-Web-Storage)
+- [x] 5-1: _JavaScript, DOM e Seletores_
+- [x] 5-2: _DOM, Eventos e Wev-Storage_
+- [x] 5-3: _JavaScript e eventos_
+- [x] 5-4: _JavaScript e Web-Storage_
+
+  
