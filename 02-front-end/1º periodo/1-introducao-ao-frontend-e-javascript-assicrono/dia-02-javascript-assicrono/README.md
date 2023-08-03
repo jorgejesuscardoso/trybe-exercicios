@@ -6,7 +6,7 @@
 
 #### **Função setTimeOut()**
 
-A função {c:red}`setTimeOut()`{/c} recebe 2 paramentros:
+A função {c:red}setTimeOut(){/c} recebe 2 paramentros:
  - Primeira recebe uma função(callback) que será executada e ela sera executada de acordo o tempo que será passada como segundo paramentro.
  - Segundo é um tempo que deve ser definido em milisegundos: 1000 milisegundos = 1 seg.
 
