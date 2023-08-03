@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "dev": "vite --open"
+  },
   "dependencies": {
-    "@trybe/eslint-config-frontend": "^1.11.3"
-  }
+    "@trybe/eslint-config-frontend": "^1.11.3",
+    "vite": "^4.4.8"
+  },
+  "type": "module"
 }
