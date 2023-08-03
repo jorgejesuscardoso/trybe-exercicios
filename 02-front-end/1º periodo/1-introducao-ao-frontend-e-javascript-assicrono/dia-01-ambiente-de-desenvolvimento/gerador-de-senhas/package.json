@@ -1,0 +1,16 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "Melhor gerador de senhas",
+  "main": "index.js",
+  "scripts": {
+    "vite": "vite --open",
+    "test": "jest"
+  },
+  "author": "Jorge de Jesus Cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.2",
+    "vite": "^4.4.8"
+  }
+}
