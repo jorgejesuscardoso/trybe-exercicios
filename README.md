@@ -49,4 +49,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-3: _JavaScript e eventos_
 - [x] 5-4: _JavaScript e Web-Storage_
 
-  
+ ##### Bloco 6: [HTML e CSS - Forms, Flexbox e Responsividade](https://github.com/jorgejesuscardoso/trybe-exercicios/tree/main/01-fundamentos/2%C2%BA-Periodo-fundamentos)
+ - [x] 6-1: _HTML & CSS Forms_
+ - [x] 6-2: _Library JavaScript e Frameworks_
+ - [x] 6-3: _CSS Flexbox_ 
+
+##### Bloco 7: [ES6 e Testes Unitários](https://github.com/jorgejesuscardoso/trybe-exercicios/tree/main/01-fundamentos/2%C2%BA-Periodo-fundamentos/6-Introducao-a-JavaScript-ES6-e-Testes-Unitarios/dia-01-Fluxo-de-esce%C3%A7%C3%B5es)
+
+- [x] 6-?: _Fluxo de Exceções_
+
+
+
+## Front-End [ ]
