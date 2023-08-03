@@ -34,3 +34,6 @@ A função `setTimeOut()` recebe 2 paramentros:
 ## Parte 3
 
 ### **Método fetch()**
+
+ - Método importante para as aplicações de front-end se comunique com outras aplicações com outras API's.
+ - O `fetch()` recebe dois paramentros sendo a primeira obrigatória e é o endereço URL da API e o segundo paramentro é um objeto de configurações e opcional a menos que tenha alguma configuração adicional, se tiver, procurar a documentação da API. `fetch(URL, {})`
