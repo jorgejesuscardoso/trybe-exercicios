@@ -37,3 +37,26 @@ A função `setTimeOut()` recebe 2 paramentros:
 
  - Método importante para as aplicações de front-end se comunique com outras aplicações com outras API's.
  - O `fetch()` recebe dois paramentros sendo a primeira obrigatória e é o endereço URL da API e o segundo paramentro é um objeto de configurações e opcional a menos que tenha alguma configuração adicional, se tiver, procurar a documentação da API. `fetch(URL, {})`
+
+### **Método Promise.all**
+
+ - Recebe como parâmentro um _array de promises_
+ - O retorno varia de acordo com a situação: 
+    - quando todas as _promises_ são resolvidas, retorna uma promise com o array com o resultado de cada promise.
+    - quando rejeitadauma promise com o objeto erro da promise rejeitada.
+
+### **Método Promise.race**
+
+ - Recebe como parâmentro um _array de promises_
+ - O retorno varia de acordo com a situação: 
+    -  quando a primeira promise for resolvida: retorna uma promise resolvida com o valor retornado pela primeira promise original, as outras são ignoradas. 
+
+### **Método Promise.any**
+
+ - quando alguma promise finalizada for resolvida: retorna uma promise resolvida com o valor retornado pela primeira promise original, ignorando qualquer outra promise que tenha sido finalizada primeiro como rejeitada. 
+ - quando todas as promise forem rejeitadas: retorna uma promise rejeitada com o objeto contendo todos os erros retornados pelas promises originais. 
+
+### **Método Promise.allsettled**
+
+ - Parâmetro recebido: array de promises
+ - Retorno: retorna uma única promise que é resolvida quando todas as promises passadas forem finalizadas. A promise é retornada com um array de objetos que contém o valor retornado por cada uma das promises originais.

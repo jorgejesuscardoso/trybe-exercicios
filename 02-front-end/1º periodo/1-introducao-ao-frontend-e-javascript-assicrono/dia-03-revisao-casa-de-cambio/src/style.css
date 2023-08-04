@@ -1,0 +1,19 @@
+body {
+    background-color: #505050;
+}
+
+#enter {
+    border-radius: 5px;
+    width: 150px;
+}
+
+#ps {
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+#cbm {
+    display: flex;
+    flex-direction: row;
+}

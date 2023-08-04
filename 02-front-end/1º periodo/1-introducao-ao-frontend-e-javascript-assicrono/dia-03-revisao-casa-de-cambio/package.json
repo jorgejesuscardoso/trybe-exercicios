@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "dependencies": {
+    "vite": "^4.4.8"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
