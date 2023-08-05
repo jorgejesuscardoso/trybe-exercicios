@@ -1,4 +1,6 @@
-import './style.css'
+import './style.css';
+import Swal from 'sweetalert2/dist/sweetalert2.js';
+import '@sweetalert2/theme-dark/dark.scss';
 
 const btn = document.querySelector('#ps');
 const pp = document.querySelector('.p');
@@ -12,7 +14,11 @@ event.preventDefault();
 const moeda = entrada.value.toUpperCase();
 const url = `https://api.exchangerate.host/latest?base=${moeda}`
 
-if (!moeda) return alert('Ops.. Você precisa passar uma moeda')
+if (!moeda) return Swal.fire({
+    icon: 'error',
+    title: 'Oops...',
+    text: 'Você precisa passar uma moeda!'
+  })
 
 fetch(url).then((response) => response.json().then((data) => {    
     if (Object.keys(data.rates).includes(moeda)) {  
@@ -28,7 +34,15 @@ fetch(url).then((response) => response.json().then((data) => {
         }
    
     } else {
-        alert('Moeda nao existe')
+     Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'Moeda não existe!'
+          })
     }
-})).catch((err) => alert('Ocorreu um erro na requisição dos dados da API:', err));
+})).catch((err) => Swal.fire({
+    icon: 'error',
+    title: 'Oops...',
+    text: 'Ocorreu um erro na requisição dos dados da API:'
+  },err));
 })
