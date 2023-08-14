@@ -1,0 +1,1 @@
+import { getMovies } from './service/api'

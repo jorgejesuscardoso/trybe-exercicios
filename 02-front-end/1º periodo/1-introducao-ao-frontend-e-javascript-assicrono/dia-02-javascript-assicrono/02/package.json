@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite run --open"
+  },
+  "dependencies": {
+    "vite": "^4.4.9"
+  },
+  "type": "module"
+}
