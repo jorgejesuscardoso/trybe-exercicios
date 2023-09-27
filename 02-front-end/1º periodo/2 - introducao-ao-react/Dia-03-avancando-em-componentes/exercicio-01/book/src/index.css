@@ -1,0 +1,9 @@
+body {
+    font-size: x-large;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

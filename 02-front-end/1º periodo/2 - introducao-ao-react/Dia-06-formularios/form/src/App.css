@@ -1,0 +1,40 @@
+.container {
+    box-sizing: border-box;
+    flex: 1;
+    margin-top: 70px;
+    padding: 0 10%;
+    width: 100%;
+}
+.app {
+    background-color: #dff6db;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.books-list {
+    background-color: #fff;
+}
+
+.images-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.images-container img {
+    width: 45%;
+}
+
+.form-message {
+    color: #e22859;
+    border-left: 3px solid #e22859;
+    padding: 8px;
+    margin-top: 15px;
+    background-color: #fafafa;
+}
+
+.form-message p {
+    padding: 8px 0;
+}
