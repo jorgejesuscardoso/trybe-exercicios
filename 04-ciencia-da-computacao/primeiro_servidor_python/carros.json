@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "brand": "VW",
+    "model": "Golf",
+    "year": 2012,
+    "color": "Black",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2008,
+    "color": "Blue",
+    "price": 20000
+  },
+  {
+    "id": 3,
+    "brand": "Renault",
+    "model": "Megane",
+    "year": 2010,
+    "color": "White",
+    "price": 12000
+  },
+  {
+    "id": 4,
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2015,
+    "color": "Red",
+    "price": 40000
+  },
+  {
+    "id": 5,
+    "brand": "FIAT",
+    "model": "UNO",
+    "year": 2015,
+    "color": "Red",
+    "price": 40000
+  }
+]
