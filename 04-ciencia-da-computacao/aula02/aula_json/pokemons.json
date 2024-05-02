@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "base_experience": 64
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": "Grass",
+    "base_experience": 142
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": "Grass",
+    "base_experience": 236
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": "Fire",
+    "base_experience": 62
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": "Fire",
+    "base_experience": 142
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": "Fire",
+    "base_experience": 240
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "type": "Water",
+    "base_experience": 63
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "type": "Water",
+    "base_experience": 142
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "type": "Water",
+    "base_experience": 239
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "type": "Bug",
+    "base_experience": 39
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "type": "Bug",
+    "base_experience": 72
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "type": "Bug",
+    "base_experience": 178
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "type": "Bug",
+    "base_experience": 39
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "type": "Bug",
+    "base_experience": 72
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "type": "Bug",
+    "base_experience": 178
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "type": "Normal",
+    "base_experience": 50
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "type": "Normal",
+    "base_experience": 122
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "type": "Normal",
+    "base_experience": 216
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "type": "Normal",
+    "base_experience": 51
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "type": "Normal",
+    "base_experience": 145
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "type": "Normal",
+    "base_experience": 52
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "type": "Normal",
+    "base_experience": 155
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "type": "Poison",
+    "base_experience": 58
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "type": "Poison",
+    "base_experience": 153
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "type": "Electric",
+    "base_experience": 112
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "type": "Electric",
+    "base_experience": 218
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "type": "Ground",
+    "base_experience": 60
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "type": "Ground",
+    "base_experience": 158
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "type": "Poison",
+    "base_experience": 55
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "type": "Poison",
+    "base_experience": 128
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "type": "Poison",
+    "base_experience": 227
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "type": "Poison",
+    "base_experience": 55
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "type": "Poison",
+    "base_experience": 128
+  }
+]
