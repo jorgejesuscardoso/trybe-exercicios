@@ -1,0 +1,15 @@
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache

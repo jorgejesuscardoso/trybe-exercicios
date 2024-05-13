@@ -1,0 +1,15 @@
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/bin/Debug/net6.0/Aritmetics
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/bin/Debug/net6.0/Aritmetics.deps.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/bin/Debug/net6.0/Aritmetics.runtimeconfig.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/bin/Debug/net6.0/Aritmetics.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/bin/Debug/net6.0/ref/Aritmetics.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/bin/Debug/net6.0/Aritmetics.pdb
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.csproj.AssemblyReference.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.GeneratedMSBuildEditorConfig.editorconfig
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.AssemblyInfoInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.AssemblyInfo.cs
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.csproj.CoreCompileInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/ref/Aritmetics.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.pdb
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Aritmetics/obj/Debug/net6.0/Aritmetics.genruntimeconfig.cache

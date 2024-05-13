@@ -1,0 +1,15 @@
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.csproj.AssemblyReference.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.AssemblyInfoInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.AssemblyInfo.cs
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.csproj.CoreCompileInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/bin/Debug/net6.0/Enumer
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/bin/Debug/net6.0/Enumer.deps.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/bin/Debug/net6.0/Enumer.runtimeconfig.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/bin/Debug/net6.0/Enumer.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/bin/Debug/net6.0/ref/Enumer.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/bin/Debug/net6.0/Enumer.pdb
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/ref/Enumer.dll
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.pdb
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/inicio/Enumer/obj/Debug/net6.0/Enumer.genruntimeconfig.cache

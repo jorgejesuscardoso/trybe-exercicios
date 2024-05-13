@@ -1,0 +1,7 @@
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/obj/Debug/net6.0/TestApi.Test.csproj.AssemblyReference.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/obj/Debug/net6.0/MvcTestingAppManifest.json
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/obj/Debug/net6.0/TestApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/obj/Debug/net6.0/TestApi.Test.AssemblyInfoInputs.cache
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/obj/Debug/net6.0/TestApi.Test.AssemblyInfo.cs
+/home/bushido/Documentos/Trybe/trybe-exercicios/05-eletiva-c#/api/TestApi.Test/obj/Debug/net6.0/TestApi.Test.csproj.CoreCompileInputs.cache
